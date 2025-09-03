@@ -96,6 +96,7 @@ Syntax: head <file name>
 
 The tail command is similar to the head command. The difference between both commands is that it displays the last ten lines of the file content. It is useful for reading the error message.
 Syntax: tail <file name>
+
 <img width="342" height="253" alt="image" src="https://github.com/user-attachments/assets/31039137-70a5-4d5c-9ba8-3ca078210c07" />
 
 ### 14)	id Command
