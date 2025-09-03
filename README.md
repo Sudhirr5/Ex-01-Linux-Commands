@@ -64,6 +64,7 @@ Syntax: cp <existing file name> <new file name>
 
 The gedit is a general-purpose text editor. It can be used to create and edit all kinds of text files.
 Syntax: gedit file_name
+
 <img width="311" height="40" alt="image" src="https://github.com/user-attachments/assets/e0cd0d2d-c53c-4d0e-9952-5ecb36948da6" />
 
 ### 9)	su Command
@@ -77,6 +78,7 @@ Syntax: su <user name>
 
 The mv command is used to move a file or a directory form one location to another location.
 Syntax: mv <file name> <directory path>
+
 <img width="291" height="48" alt="image" src="https://github.com/user-attachments/assets/2378c8b0-31e4-4bd3-bad9-55961fd70e27" />
 <img width="312" height="70" alt="image" src="https://github.com/user-attachments/assets/ae23a1fa-d054-4068-91d7-25669812cb6b" />
 
@@ -84,12 +86,14 @@ Syntax: mv <file name> <directory path>
 
 The rename command is used to rename files. It is useful for renaming a large group of files.
 Syntax: rename 's/old-name/new-name/' files
+
 <img width="303" height="83" alt="image" src="https://github.com/user-attachments/assets/858ed076-4a0c-497b-a10a-c6fe456d789a" />
 
 ### 12)	head Command
 
 The head command is used to display the content of a file. It displays the first 10 lines of a file.
 Syntax: head <file name>
+
 <img width="387" height="450" alt="image" src="https://github.com/user-attachments/assets/34f4f3c1-6fbf-4b1e-8a85-8b84667b6fc9" />
 
 ### 13)	tail Command
@@ -103,24 +107,28 @@ Syntax: tail <file name>
 
 The id command is used to display the user ID (UID) and group ID (GID).
 Syntax: id
+
 <img width="645" height="96" alt="image" src="https://github.com/user-attachments/assets/3b69b38f-286e-4cd1-b75d-2605ca99d54d" />
 
 ### 15)	grep Command
 
 The grep is the most powerful and used filter in a Linux system. The 'grep' stands for "global regular expression print." It is useful for searching the content from a file. Generally, it is used with the pipe.
 Syntax: command | grep <search word>
+
 <img width="322" height="242" alt="image" src="https://github.com/user-attachments/assets/acf9d48a-0682-4290-ad85-c32f4f5bd732" />
 
 ### 16)	tr Command
 
 The tr command is used to translate the file content like from lower case to upper case.
 Syntax: command | tr <'old'> <'new'>
+
 <img width="317" height="237" alt="image" src="https://github.com/user-attachments/assets/c8f6c5af-97d0-4993-afe6-9f3099eb05b6" />
 
 ### 17)	chmod Command
 
 The chmod command is used to change the access mode of a file (i.e., read, write or execute)
 Syntax: chmod<options><permissions><file_name>
+
 <img width="482" height="156" alt="image" src="https://github.com/user-attachments/assets/0972298a-ca0b-4e99-a91c-3cdf005336ae" />
 
 ### 18)	tar Command
