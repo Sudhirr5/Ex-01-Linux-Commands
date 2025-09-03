@@ -1,4 +1,4 @@
-<img width="487" height="167" alt="image" src="https://github.com/user-attachments/assets/678f4aee-e155-44e5-af18-53cfb1d87103" /># Ex-01-Linux-Commands
+# Ex-01-Linux-Commands
 ### Name : SUDHIR KUMAR. R
 ### Reg No. : 212223230221
 
