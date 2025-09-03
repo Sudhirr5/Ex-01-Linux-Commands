@@ -1,138 +1,125 @@
 # Ex-01-Linux-Commands
-
+### Name : SUDHIR KUMAR. R
+### Reg No. : 212223230221
 
 ## Aim:
-
 To study the execution of various Linux operating system commands.
 
 ## Linux:
-
-Linux is an open-source operating system. The kernel is the heart of Linux OS which
- 
-helps the communication between hardware and software. The main advantage of Linux was that programmers can use Linux kernel to design their own custom OS.
-
+Linux is an open-source operating system. The kernel is the heart of Linux OS whichhelps the communication between hardware and software. The main advantage of Linux was that programmers can use Linux kernel to design their own custom OS.
 Linux Commands:
 All basic and advanced tasks can be done by executing commands. The commands are executed on Linux terminal. Linux commands are case sensitive.
-
 
 ## Commands:
 
 ### 1)	ls Command
-
 The ls command is used to display a list of content of a directory.
-
  Syntax: ls
 
-
+<img width="615" height="68" alt="Screenshot 2025-08-29 094121" src="https://github.com/user-attachments/assets/7e150066-e372-4ecf-aaf7-deb0995675dc" />
+ 
 ### 2)	pwd Command
 
 The pwd command is used to display the location of the current working directory.
-
 Syntax: pwd
 
- 
+<img width="339" height="111" alt="Screenshot 2025-08-29 094151" src="https://github.com/user-attachments/assets/48bb9d4d-5de9-443c-a0b6-7022926c2f05" />
+
 ### 3)	mkdir Command
 
 The mkdir command is used to create a new directory under any directory.
-
 Syntax: mkdir <directory name>
 
+<img width="372" height="103" alt="Screenshot 2025-08-29 094300" src="https://github.com/user-attachments/assets/16f5f207-6036-41ea-ae63-5dc767d92932" />
 
 ### 4)	rmdir Command
 
 The rmdir command is used to delete a directory.
-
 Syntax: rmdir <directory name>
 
+<img width="351" height="96" alt="Screenshot 2025-08-29 094355" src="https://github.com/user-attachments/assets/e7ab7694-fef7-4998-bd06-be16e3ae6557" />
 
 ### 5)	cd Command
 
 The cd command is used to change the current directory.
-
 Syntax: cd <directory name>
 
+<img width="447" height="87" alt="Screenshot 2025-08-29 094458" src="https://github.com/user-attachments/assets/df569f95-3ec8-43cc-abe7-f164a3029760" />
 
 ### 6)	cat Command
 
 The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
-
 Syntax: cat [OPTION]... [FILE]..
 
- 
+<img width="489" height="314" alt="Screenshot 2025-08-29 094842" src="https://github.com/user-attachments/assets/af85027f-1337-4d6e-a256-295c96b166ba" />
+
 ### 7)	cp Command
 
 The cp command is used to copy a file or directory.
-
 Syntax: cp <existing file name> <new file name>
 
-
+<img width="375" height="217" alt="image" src="https://github.com/user-attachments/assets/16db94bd-76df-4e10-b39b-61feb58c47d7" />
 
 ### 8)	gedit Command
 
 The gedit is a general-purpose text editor. It can be used to create and edit all kinds of text files.
-
 Syntax: gedit file_name
 
+<img width="311" height="40" alt="image" src="https://github.com/user-attachments/assets/e0cd0d2d-c53c-4d0e-9952-5ecb36948da6" />
 
 ### 9)	su Command
 
 The su command provides administrative access to another user. In other words, it allows access of the Linux shell to another user.
-
 Syntax: su <user name>
 
+<img width="301" height="95" alt="image" src="https://github.com/user-attachments/assets/3cd18409-360e-44b1-aa4d-2a9a20ea4a49" />
 
 ### 10)	mv Command
 
 The mv command is used to move a file or a directory form one location to another location.
-
 Syntax: mv <file name> <directory path>
 
- 
+<img width="291" height="48" alt="image" src="https://github.com/user-attachments/assets/2378c8b0-31e4-4bd3-bad9-55961fd70e27" />
+<img width="312" height="70" alt="image" src="https://github.com/user-attachments/assets/ae23a1fa-d054-4068-91d7-25669812cb6b" />
+
 ## 11)	rename Command
 
 The rename command is used to rename files. It is useful for renaming a large group of files.
-
 Syntax: rename 's/old-name/new-name/' files
 
 
 ### 12)	head Command
 
 The head command is used to display the content of a file. It displays the first 10 lines of a file.
-
 Syntax: head <file name>
 
 
 ### 13)	tail Command
 
 The tail command is similar to the head command. The difference between both commands is that it displays the last ten lines of the file content. It is useful for reading the error message.
-
 Syntax: tail <file name>
 
  
 ### 14)	id Command
 
 The id command is used to display the user ID (UID) and group ID (GID).
-
 Syntax: id
 
 
 ### 15)	grep Command
 
 The grep is the most powerful and used filter in a Linux system. The 'grep' stands for "global regular expression print." It is useful for searching the content from a file. Generally, it is used with the pipe.
-
 Syntax: command | grep <search word>
 
 
 ### 16)	tr Command
 
 The tr command is used to translate the file content like from lower case to upper case.
-
 Syntax: command | tr <'old'> <'new'>
 
 ### 17)	chmod Command
 
 The chmod command is used to change the access mode of a file (i.e., read, write or execute)
-
 Syntax: chmod<options><permissions><file_name>
 
 ### 18)	tar Command
